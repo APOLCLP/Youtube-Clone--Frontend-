@@ -1,0 +1,35 @@
+
+.sidebar{
+    font-family: Roboto, Arial, sans-serif;
+    position :fixed;
+    left: 0;
+    top: 56px;
+    bottom: 0;
+    background-color: white;
+    width : 72px;
+    
+    z-index : 200;
+    padding-top :4px;
+
+}
+.others{
+    font-size: 10px;
+    
+    height: 74px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    align-items: center;
+    transition: background-color 0.15s ;
+}
+.others img{
+    height: 24px;
+    margin-bottom: 6.5px;
+    
+
+}
+.others:hover{
+    cursor:pointer;
+    background-color: rgb(240, 240, 240);
+}
