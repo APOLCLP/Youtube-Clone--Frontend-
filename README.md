@@ -5,7 +5,7 @@ A static clone of the YouTube homepage built using only HTML and CSS. This proje
 
 ## 📸 Preview
 
-![Youtbe Home page](demo,png)
+![Youtbe Home page](assets/demo.png)
 
 ## 🧰 Tech Stack
 
@@ -37,9 +37,9 @@ A static clone of the YouTube homepage built using only HTML and CSS. This proje
 ├── css/
 │   └── video.css
 │   └── header.css  
-│   └── sidebar.css/ 
+│   └── sidebar.css 
 ├── assets/
-│   └── profile_images/ 
-│   └── thubnails/ 
-│   └── icons/ 
+│   └── profile_images 
+│   └── thubnails 
+│   └── icons 
 
