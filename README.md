@@ -5,7 +5,7 @@ A static clone of the YouTube homepage built using only HTML and CSS. This proje
 
 ## 📸 Preview
 
-_Add a screenshot of your YouTube clone homepage here._
+![Youtbe Home page](demo,png)
 
 ## 🧰 Tech Stack
 
